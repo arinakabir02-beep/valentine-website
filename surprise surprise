@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Valentine ❤️</title>
+<style>
+body{
+text-align:center;
+font-family:Arial;
+background:pink;
+}
+h1{
+margin-top:100px;
+color:red;
+}
+button{
+padding:15px 30px;
+font-size:20px;
+background:red;
+color:white;
+border:none;
+border-radius:10px;
+}
+</style>
+</head>
+<body>
+
+<h1>Happy Valentine's Day ❤️</h1>
+<p>You are the most special person in my life.</p>
+<button onclick="alert('I love you ❤️')">Open Surprise</button>
+
+</body>
+</html>
